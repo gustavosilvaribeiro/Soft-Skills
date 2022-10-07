@@ -10,3 +10,46 @@ Concluindo: desenvolver as habilidades sociais de Estudantes da Trybe é um elem
 
 <h1 aligh="center">Quais são as soft skills que vamos trabalhar? </h1>
 
+<h2 aligh="center"> Inteligência Emocional </h2>
+<ul>
+<li>Autoconhecimento</li>
+<li>Resiliência</li>
+<li>Empatia</li>
+<li>Autogestão</li>
+</ul>
+<h2 aligh="center"> Comunicação </h2>
+<ul>
+<li>Estuta ativa</li>
+<li>Dar e receber feedback</li>
+<li>Assertividade</li>
+<li>Negociação</li>
+</ul>
+<h2 aligh="center"> Colaboração</h2>
+<ul>
+<li>Senso de time</li>
+<li>Colaborando com pessoas diferentes de nós</li>
+<li>Métodos ágeis</li>
+<li></li>
+</ul>
+<h2 aligh="center"> Pensamento Critico </h2>
+<ul>
+<li>Resolução de problemas</li>
+<li>Racionicio Lógico</li>
+<li>Tomada de decisão</li>
+
+</ul>
+<h2 aligh="center"> Criatividade </h2>
+<ul>
+<li>Inovação</li>
+<li>Criação</li>
+<li>Curiosidade</li>
+<li>Diversidade de pontos de vista</li>
+
+</ul>
+<h2 aligh="center">Liderança </h2>
+<ul>
+<li>Liderança de si</li>
+<li>Liderança de outras pessoas</li>
+<li>Como ser uma pessoa liderada</li>
+
+</ul>
