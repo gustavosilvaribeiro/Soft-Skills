@@ -29,7 +29,7 @@ Concluindo: desenvolver as habilidades sociais de Estudantes da Trybe é um elem
 <li>Senso de time</li>
 <li>Colaborando com pessoas diferentes de nós</li>
 <li>Métodos ágeis</li>
-<li></li>
+
 </ul>
 <h2 aligh="center"> Pensamento Critico </h2>
 <ul>
