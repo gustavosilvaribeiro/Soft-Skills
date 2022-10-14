@@ -11,4 +11,4 @@ As soft skills têm as seguintes características principais:
 <li>Podem ser aprendidas por todas as pessoas, em qualquer momento da vida, desde que haja um interesse genuíno em se desenvolver. Por isso, o seu progresso em soft skills aqui na Trybe depende, sobretudo, do seu engajamento.	</li>
 <li>São transversais, isto é, atravessam diversas esferas da vida, inclusive educativa e profissional;</li>
 <li>Tradicionalmente não são ensinadas nos currículos de educação, o que só começou a mudar no início do Século XXI, em lugares como União Europeia e Estados Unidos</li>
-</ol>
+</ol>   
