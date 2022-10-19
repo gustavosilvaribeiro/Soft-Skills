@@ -5,6 +5,7 @@
 A ideia, hoje, é expandirmos o significado da palavra “influenciar”. Para isso, nós faremos um primeiro exercício, dividido em três etapas.
 
 Inicialmente, você deve enumerar as cinco pessoas que, na sua percepção, mais influenciaram a sua vida: </p>
+
  <ol>
  <li>Escreva os nomes num pedaço de papel ou editor de textos.</li>
  <li>Ao lado de cada nome, adicione uma breve descrição sobre o modo como essa pessoa influenciou você.</li>
